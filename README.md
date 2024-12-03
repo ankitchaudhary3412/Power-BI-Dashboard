@@ -5,7 +5,7 @@ Hello Everyone...
  This visuals will helps business leaders , manager , decision maker to make decision very easily. I have shown using using microsoft power BI visuals, barchart, pie chart 
  
  , donutchart , Card , Decomposition tree and Key Influencer visuals etc.
-
+ 
  Thankyou 
  Ankit
- MOBNO-8588978270
+ Mob NO-8588978270
